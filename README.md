@@ -1,0 +1,2 @@
+# kadai
+counting gene sequence
