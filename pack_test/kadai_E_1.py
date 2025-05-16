@@ -26,7 +26,6 @@ def kadai_E_1(pdb_seqres, number):
             D = C[1]
             if int(D) <= number:
                 count = count + 1
-
     print(count)
 
     print(count / allrecords * 100)
